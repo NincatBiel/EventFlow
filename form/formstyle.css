@@ -1,0 +1,13 @@
+:root{
+    --azul-padrao1: rgb(1,1,1);
+    --azul-padrao2: rgb(1,1,1);
+    --azul-padrao3: rgb(1,1,1);
+    --nenhuma: rgba(255, 255, 255, 0);
+    
+    font-family: 'Seoge Ui';
+    font-size: 21px;
+}
+
+body{
+    background-color: var(--nenhuma);
+}
